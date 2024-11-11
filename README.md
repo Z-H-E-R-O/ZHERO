@@ -1,7 +1,7 @@
-# ZHERO (Zero Hunger & Efficient Resource Optimization) 
+# ZHERO (Zero Hunger & Efficient Resource Optimization) 🍽️♻️
 **ZHERO** is an innovative food waste management system designed to tackle hunger and optimize the use of resources. By tracking, managing, and redistributing surplus food, ZHERO reduces food waste while improving food security in local communities. It connects food donors (such as restaurants, grocery stores, and households) with organizations that help those in need, ensuring that edible food doesn’t go to waste.
 
-# Project Overview
+# Project Overview 🌍
 Food waste is a global issue, contributing to both environmental degradation and food insecurity. **ZHERO** (Zero Hunger & Efficient Resource Optimization) is designed to bridge the gap by:
 
 
@@ -17,7 +17,7 @@ The system offers features for both food donors and recipients, creating a seaml
 # Alignment with SDGs
 **ZHERO** is aligned with two of the United Nations Sustainable Development Goals (SDGs):
 
-## **SDG 2: Zero Hunger**
+## **SDG 2: Zero Hunger** 🍽️
 ***"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture."***
 
 **ZHERO** directly contributes to SDG 2 by:
@@ -29,7 +29,7 @@ The system offers features for both food donors and recipients, creating a seaml
 **Promoting Nutrition:** Donated food often includes a variety of nutritious options, ensuring that beneficiaries receive balanced meals.
 By supporting efficient redistribution, ZHERO helps ensure that food is not wasted but is instead used to help combat hunger and promote food security.
 
-## SDG 12: Responsible Consumption and Production
+## SDG 12: Responsible Consumption and Production ♻️
 ***"Ensure sustainable consumption and production patterns."***
 
 **ZHERO** is also a key enabler of SDG 12 by:
